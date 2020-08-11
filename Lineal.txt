@@ -1,0 +1,7 @@
+Arreglo[1]= 4
+Arreglo[2]= 1
+Arreglo[3]= 3
+Arreglo[4]= 2
+Arreglo[5]= 5
+Elemento a buscar: 1
+Elemento encontrado en la posición: 2
